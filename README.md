@@ -3,8 +3,9 @@
 Name: Zhibek Akberdiyeva  
 Group: SE - 2511
 
-## Description
-This project contains 10 recursion tasks implemented in Java. All tasks are solved using recursion without using loops.
+## Summary
+In this assignment, I solved 10 problems using recursion without any loops. 
+This helped me improve my logical thinking and gain a better understanding of recursive problem-solving.
 
 ## Screenshots
 
